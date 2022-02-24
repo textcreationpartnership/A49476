@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at White-Hall being the last sermon preached at court / by the right reverend father in God Benjamin Laney ...</title>
+            <author>Laney, Benjamin, 1591-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49476</idno>
+            <idno type="STC">Wing L350</idno>
+            <idno type="STC">ESTC R7415</idno>
+            <idno type="EEBO-CITATION">12920698</idno>
+            <idno type="OCLC">ocm 12920698</idno>
+            <idno type="VID">95376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 986:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at White-Hall being the last sermon preached at court / by the right reverend father in God Benjamin Laney ...</title>
+                  <author>Laney, Benjamin, 1591-1675.</author>
+               </titleStmt>
+               <extent>[2], 32, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95376:1"/>
+            <p>A SERMON Preached before the KING AT WHITE-HALL.</p>
+            <p>Being the laſt Sermon preached at COURT, By the Right Reverend Father in God BENJAMIN LANEY Late Lord Biſhop of ELY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome</hi> at the <hi>Gun</hi> at the Weſt end of S. <hi>Pauls.</hi> 1675.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:95376:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>THO. TOMKYNS.</signed>
+               <dateline>Ex. Aed. Lambethanis <date>
+                     <hi>Maii.</hi> 18. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95376:2"/>
+            <head>A SERMON Preached Before His MAJESTY AT WHITE-HALL.</head>
+            <epigraph>
+               <bibl>
+                  <hi>GAL. vi.</hi> v. <hi>7.8.</hi>
+               </bibl>
+               <q>
+                  <p>Be not deceived, God is not mocked, for whatſoe<g ref="char:EOLhyphen"/>ver a man ſoweth, that ſhall he alſo reap.</p>
+                  <p>For he that ſoweth to his fleſh, ſhall of the fleſh reap corruption; but he that ſoweth to the Spi<g ref="char:EOLhyphen"/>rit, ſhall of the Spirit reap life everlaſting.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Efore we look into the particulars of the Doctrine of this Text, we may from the Preface <hi>[Be not deceived]</hi> learn ſo much of the nature of it, that we are either in danger to be deceived, or in great danger if we ſhould
+<pb n="2" facs="tcp:95376:3"/>be deceived, or both. It will therefore be neceſſary, firſt to implore the aid and aſſi<g ref="char:EOLhyphen"/>ſtance of Gods grace, which is the beſt Guide to lead us through the intricate ways of Er<g ref="char:EOLhyphen"/>rour and Deceit, <hi>&amp;c.</hi>
+            </p>
+            <p>The Text it ſelf ſeems not at firſt ſight to anſwer the expectation which the Preface hath raiſed of Danger to us. It hath but one purpoſe, but that is carried upon two Propoſitions; One General, That <hi>whatſo<g ref="char:EOLhyphen"/>ever a man ſows, he ſhall reap.</hi> The other Par<g ref="char:EOLhyphen"/>ticular, of what ſhall be reaped, from the <hi>Fleſh,</hi> or from the <hi>Spirit.</hi>
+            </p>
+            <p>For the General, I muſt confeſs, it is a truth wherein few or none are deceived, not any Gardener or Plough-man, never ſo ſimple, that looks to reap what he hath not ſown. God gave that vertue in the Creation to all living things <hi>to bring forth after their kind.</hi> And our Saviour himſelf made uſe of it to a higher purpoſe, <hi>we cannot gather Grapes of Thorns, nor Figgs of Thiſtles.</hi>
+            </p>
+            <p>So far we may poſſibly digeſt this truth in the General, and fear not much to be <hi>de<g ref="char:EOLhyphen"/>ceived,</hi> but when we come to Particulars, where it touches our own <hi>fleſh</hi> and <hi>ſpirit,</hi> though it be as true as the General, and muſt
+<pb n="3" facs="tcp:95376:3"/>be ſo, being contained in it: yet becauſe in this caſe it mixeth with our own Intereſt and Affection, what we wiſh may not be true, we are eaſily miſled to think it ſo.</p>
+            <p>To this therefore, at leaſt the Caution in the Preface is proper and neceſſary, though not in the General. For this reaſon I ſhall lay that aſide, as lefs liable to fraud, and beſtow our care at this time upon this to which the Apoſtle directs his, where we are in danger to be deceived; <hi>He that ſoweth to the fleſh,</hi> &amp;c.</p>
+            <p>And here our firſt care muſt be that we be not <hi>deceived</hi> in the meaning of the words; which look ſo like a Deſcription of the Day of Judgment, that ſome Expoſitors have taken them for it, and to be the ſame with that 2 <hi>Cor.</hi> 5.10. <hi>We ſhall all appear before the Judgment ſeat of Chriſt, that every man may re<g ref="char:EOLhyphen"/>ceive the things done in his body, according to that he hath done, whether it be good or bad.</hi>
+            </p>
+            <p>I do not refuſe this Expoſition for any danger that might come by miſtaking, for it would howſoever lead us to a point of great conſequence, and not a little neceſſa<g ref="char:EOLhyphen"/>ry for theſe times in which our beloved <hi>Liberty</hi> hath rifled ſo far into the Myſteries
+<pb n="4" facs="tcp:95376:4"/>of <hi>Religion,</hi> and digged ſo much about the Foundation, that the Houſe is in danger; where, they ſay, all depends upon the re<g ref="char:EOLhyphen"/>port of others, who know as little as our ſelves whether there be a Heaven or Hell, or Day of Judgment or no. The detection of ſo dangerous a Deceit had been neceſſary, if the occaſion had been as fit; I ſhall there<g ref="char:EOLhyphen"/>fore leave it to other Texts, which are more proper for it then this is, knowing well, that Truth receives not more preju<g ref="char:EOLhyphen"/>dice any way, then when it is ſet upon weak and uncertain Foundations.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Now the reaſon why I take not that ſenſe in here, is becauſe the words will not fairly bear it. If it had been ſowing the ſins and luſts of the fleſh, whereupon the laſt Judg<g ref="char:EOLhyphen"/>ment ſhall be given, it had been clear for that; but the words are <hi>to the Fleſh,</hi> and <hi>to the Spirit,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſo muſt have another meaning.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And as the <hi>Sowing,</hi> ſo the <hi>Reaping</hi> alſo dif<g ref="char:EOLhyphen"/>fers from that at the Day of Judgment; for he that <hi>ſowes to the fleſh ſhall reap corruption;</hi> and it will be hard to find <hi>Everlaſting burn<g ref="char:EOLhyphen"/>ings</hi> in that word, which naturally ſignifies no more then privation of Life or Being. Now
+<pb n="5" facs="tcp:95376:4"/>they that give themſelves over all their lives to the luſts of the fleſh without re<g ref="char:EOLhyphen"/>morſe, would be content with this doom, and hear no quit all ſcores with Dying, if they might more of it.</p>
+            <p>What other ſenſe then will the words more properly bear? <hi>To the fleſh,</hi> and <hi>to the ſpirit,</hi> imply rather the <hi>ſoil</hi> wherein they are to <hi>ſowe,</hi> then the <hi>ſeed,</hi> and are as two <hi>Fields</hi> in which God ſets all men to work. Every one hath two Ploughs going, one to the <hi>fleſh,</hi> and another to the <hi>ſpirit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For the <hi>Fleſh</hi> firſt, it muſt be taken ab<g ref="char:EOLhyphen"/>ſtractly from the <hi>ſins</hi> of the <hi>fleſh,</hi> though it be hard parting them, as the beſt of us know; yet we may conſider them apart, and ſo we ſaw them in our Saviour, who took our fleſh upon him, that is, our natural and ci<g ref="char:EOLhyphen"/>vil condition of life, he had all the infirmi<g ref="char:EOLhyphen"/>ties of the one except ſin, and the burthens of the other; he was born under the Law, and paid obedience and tribute to the Ci<g ref="char:EOLhyphen"/>vil Power. This is that fleſh which God hath given us as a ſtock to be imployed, but upon account. He hath not given us our natural lives to fling away at our pleaſures, by diſorders, diſtempers, or quarrels. Nor
+<pb n="6" facs="tcp:95376:5"/>hath he put us here into the World into the ſocieties of men, to live in want and con<g ref="char:EOLhyphen"/>tempt, but to improve our induſtry to the beſt advantage both to our ſelves and others; and may by that attain to ſome luſter and ſplendor of riches, honour, and command, to which no oppreſſion, or extortion, or any lucky ſin hath advanced us, and that is, though we have brought no corruption into the fleſh, yet we ſhall reap corruption from it. This is a Doctrine, which our dai<g ref="char:EOLhyphen"/>ly experience abundantly confirms, by the frequent turnings, changes and viciſſitude of things.</p>
+            <p>But that our deſires ſhould be ſo un<g ref="char:EOLhyphen"/>changeably fixed upon things ſo mutable, muſt be ſome great deluſion, or in the Apo<g ref="char:EOLhyphen"/>ſtles phraſe in a like manifeſt caſe, a be<g ref="char:EOLhyphen"/>witching, not to truſt our own eyes in what we ſee every day. But becauſe though the World be full of Deceivers, we are ſtill the greateſt deceivers of our ſelves; let us take it upon the credit of others, and thoſe the wiſeſt Kings, <hi>Solomon,</hi> and his Father <hi>David,</hi> who may be the better truſted in this, for that neither of them were any great enemies to the fleſh. <hi>Solomon,</hi> when he had
+<pb n="7" facs="tcp:95376:5"/>run through all the glories, pleaſures, and de<g ref="char:EOLhyphen"/>lights of the world, never any King drank deeper in that cup; yet he at laſt wearied, ſate down to write a Book to teach others, that all was <hi>Vanity,</hi> and that is but another word to ſignifie <hi>Corruption.</hi> And <hi>David,</hi> as well of obſervation as experience, <hi>I my ſelf have ſeen the ungodly in great power flouriſhing like a green Bay tree; I went by and lo he was gone, I ſought him, and his place could no where be found, Pſal.</hi> 37.36. And leaſt we ſhould think this the portion onely of the ungodly, <hi>Pſal.</hi> 49.9. <hi>Wiſe men alſo die and periſh together, as well as the ignorant and fooliſh, and leave their riches for others;</hi> and it may be not that nei<g ref="char:EOLhyphen"/>ther; <hi>For riches</hi> (ſaith the Wiſe man <hi>Prov.</hi> 23.) <hi>make themſelves wings and fly away from the owner.</hi> And at another time the Owner too makes himſelf wings and flies away from them. All things in the World are upon the Wing. And it is a ſtrange deceit the Prophet obſerves (<hi>verſ.</hi> 11.) <hi>And yet they think that their houſes ſhall continue for ever.</hi> And to give themſelves a kind of Immortality, <hi>they call them after their own names.</hi> But they are oft times deceived in that too; ſo far doth Corruption eat into all our deſigns. The
+<pb n="8" facs="tcp:95376:6"/>lewd people will be the Goſſips and name the Child in deſpite of the Father, and that little to his liking or honour. We are not ſure to enjoy that poor vanity to leave a name behind us upon that which coſt us ſo much care and expenſe. Laſtly, How well ſoever he ſpeeds here, and that <hi>the Glo<g ref="char:EOLhyphen"/>ry of his houſe be increaſed,</hi> yet this will be certain, (<hi>verſ.</hi> 17.) <hi>He ſhall carry nothing away with him when he dieth, neither ſhall his pomp fol<g ref="char:EOLhyphen"/>low him.</hi>
+            </p>
+            <p>I do not think by this, or any thing that can be ſaid more, to make you out of love with the <hi>fleſh,</hi> it is neither poſſible nor need<g ref="char:EOLhyphen"/>ful. I ſhall only for a concluſion of this firſt part beg in the Apoſtles name, that ye would not be deceived, as all are who give more for a thing then it is worth. To ſpend all our time and coſt upon that which will be worth nothing; or as ill, no better then rottenneſs and corruption.</p>
+            <p>I make the more haſte through this Field of the <hi>Fleſh,</hi> that we may ſtay the longer in that of the <hi>Spirit,</hi> where our labour and til<g ref="char:EOLhyphen"/>lage will be to better purpoſe, for ye ſee the beſt that can be hoped for from the other, is but to flouriſh as a Flower of that Field,
+<pb n="9" facs="tcp:95376:6"/>and that <hi>Pſal.</hi> 103.19. <hi>as ſoon as the wind goeth over it is gone. Nullus flos niſi novus.</hi> Corru<g ref="char:EOLhyphen"/>ption bloweth upon the moſt florid condi<g ref="char:EOLhyphen"/>tion in it. But the growth and increaſe from the field of the Spirit is incorruptible, that <hi>fadeth not away, reſerved in heaven for us,</hi> 1 <hi>Pet.</hi> 1.4. <hi>for he that ſoweth, &amp;c.</hi>
+            </p>
+            <p>When we ſee ſo great a Harveſt, and yet ſo few Labourers in the Field, ſome ſtrange deluſion there muſt be, whereſoever it lies; we muſt confeſs the Apoſtles caution here was no more then needs: <hi>Be not deceived, God is not mocked.</hi> For is it poſſible where ſo good wages are, ſo few ſhould ſet themſelves at work? unleſs they either miſtruſted their pay, Eternal Life, and ſo mocked God that promiſed it; or miſtook the ſowing, and ſo deceived themſelves. Both theſe would deſerve to be well conſidered, but becauſe they who have ſome diffidence of a life here<g ref="char:EOLhyphen"/>after to come, have not the confidence to ſay ſo; I have not ſo much ſpare time as to ſpend in proving that which they will be ready to ſay they do not deny. I ſhall there<g ref="char:EOLhyphen"/>fore now endeavor only to undeceive them, if it may be, in the vain pretences they make to it in the <hi>ſowing.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:95376:7"/>That here, firſt it will be neceſſary, that whatever elſe deceives them, to ſee, that a miſunderſtanding of the words give no occaſion to it, to know what this <hi>ſowing to the Spirit</hi> is, and how it comes to make a Title to Everlaſting Life, for there are no mean Competitors in the ſame Claim. For,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Chriſt</hi> is the Author of this life, <hi>For as in Adam all die, ſo in Chriſt ſhall all be made alive,</hi> 1 Cor. 15.4. And 2 Tim. 1.10. <hi>Our Lord Jeſus Chriſt hath aboliſhed death, and brought life and immortality to light.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Another Competitor with the Spirit, is the Goſpel, that is the immortal ſeed of this life, <hi>Being born again by the Word of God, which liveth and abideth for ever,</hi> 1 Pet. 1.23. It is <hi>the Power of God to Salvation.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Faith</hi> puts in to the ſame Claim, <hi>The Juſt ſhall live by Faith,</hi> Rom. 1.17. And 1 Tim. 1.16. St. <hi>Paul</hi> profeſſeth that <hi>Jeſus Chriſt</hi> had ſet forth him as a Pattern <hi>to all them who ſhould hereafter believe on him to everlaſting life.</hi>
+            </p>
+            <p>Is there yet another way to Everlaſting life by <hi>ſowing to the Spirit?</hi> It is happy for us that there is any way to it, but yet we
+<pb n="11" facs="tcp:95376:7"/>may be at a loſs and confounded where there are ſo many.</p>
+            <p>To remove that fear, we muſt know, that all theſe are but ſeveral names of the ſame thing, though in divers appearances, and <hi>Phaſes,</hi> as the Aſtronomers word is, <hi>Chriſt, the Goſpel, Faith,</hi> and the <hi>Spirit,</hi> do all relate to <hi>life everlaſting.</hi>
+            </p>
+            <p>
+               <hi>Chriſt</hi> as the Author of it, provided all things neceſſary to it. The <hi>Goſpel,</hi> as the Re<g ref="char:EOLhyphen"/>giſter of all that is to be known or done to attain it. <hi>Faith</hi> is our ſubmiſſion and obe<g ref="char:EOLhyphen"/>dience to the Goſpel. The <hi>Spirit</hi> is the pub<g ref="char:EOLhyphen"/>liſher and preacher of it, <hi>Epheſ.</hi> 3.5. <hi>The my<g ref="char:EOLhyphen"/>ſteries of Chriſt which in other ages was not made known to the ſons of men, as it is now revealed un<g ref="char:EOLhyphen"/>to the Apoſtles and Prophets by the Spirit.</hi> And for this reaſon the Apoſtle expreſly calls the <hi>Goſpel</hi> the <hi>Spirit, Gal.</hi> 3.3. For whereas they having already embraced the Goſpel, fell back to Circumciſion and other rites of the Law, ſeverely charges them with folly; <hi>Are ye ſo fooliſh having begun in the ſpirit, are ye now made perfect by the fleſh?</hi> The <hi>Spirit</hi> is the <hi>Goſpel,</hi> and the <hi>Law</hi> the <hi>Fleſh:</hi> they are ſo called <hi>Heb.</hi> 9.10. <hi>Carnal Ordinances;</hi> and the reaſon why is intimated, becauſe they were
+<pb n="12" facs="tcp:95376:8"/>temporal, impoſed upon them, until the time of Reformation and no longer; where<g ref="char:EOLhyphen"/>as the Goſpel <hi>abideth for ever,</hi> 1 <hi>Pet.</hi> 1.23.</p>
+            <p>Thus we ſee that Chriſt, and Faith, and the Goſpel, and the Spirit muſt all meet in the title to everlaſting life; if we ſeparate and divide them, we are certainly decei<g ref="char:EOLhyphen"/>ved; it is a fallacy <hi>à compoſitis ad diviſa,</hi> di<g ref="char:EOLhyphen"/>viding thoſe things which the Spirit hath joyned together. And by this we may trie and examine the ſufficiency of their Pleas apart and divided.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, For thoſe that make their title to life from Chriſt alone, that they are Chri<g ref="char:EOLhyphen"/>ſtians at large, not to be tied up by any par<g ref="char:EOLhyphen"/>ticular rules of Faith or Obedience, that is to divide Chriſt from his Goſpel againſt his own will, who promiſed to reward them that forſook any thing for his ſake and the Goſpel, he joins them both together, <hi>Mark</hi> 10.29. and will not own them for his friends that do not all that he commands them, <hi>John</hi> 15. and they ſhall find more Work-commandments in the Goſpel then a fan<g ref="char:EOLhyphen"/>taſtical name of Chriſtianity. Whileſt by this means they think to avoid Schiſm, they make one, for they are Schiſmaticks upon
+<pb n="13" facs="tcp:95376:8"/>record, 1 <hi>Cor.</hi> 1.10. It is declared (ſaith Saint <hi>Paul</hi>) that there are diviſions, the Greek word is Schiſms among you; every one of you ſaith I am of <hi>Paul,</hi> I am of <hi>Apollos,</hi> I am of <hi>Cephas,</hi> I am of <hi>Chriſt.</hi> Is that a Schiſm to be for Chriſt? Yes ſure, it is dividing of him; for he adds; <hi>Is Chriſt divided?</hi> and how could that be, but from his Apoſtles, whom he had appointed to inſtruct them in the Goſpel, and had made them as it were one perſon with himſelf, <hi>He that hears you hears me.</hi> And thus was Chriſt divided.</p>
+            <p>What could probably be the cauſe of this ſeparation from them, but that they were not ſatisfied either with their Doctrine, or ſeverity of their Diſcipline, ſought to ſhroud themſelves under the name of Chriſt, not out of a great reſpect to him and his Do<g ref="char:EOLhyphen"/>ctrine, which we may well preſume could not differ, but becauſe it was a more plauſi<g ref="char:EOLhyphen"/>ble way to ſhift off their Authority, by ap<g ref="char:EOLhyphen"/>pealing from the Servants to the Maſter.</p>
+            <p>Much after this Copy do our Chriſtians of the <hi>Latitude</hi> write. They believe in Chriſt without a Creed, they obey him without doing his Will; they worſhip him, no man knows how, but every man as he
+<pb n="14" facs="tcp:95376:9"/>likes; and if he likes that better, not at all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> As theſe are deceived by dividing Chriſt from his Goſpel, ſo ſecondly others by the ſame fallacie divide the Spirit from it. So fully was the Myſtery of Chriſt made known in the Goſpel by the Spirit, that St. <hi>John</hi> gives a charge, that if there come any that bring not that Doctrine, <hi>not to receive him, nor bid him God ſpeed,</hi> 2 <hi>Joh.</hi> 10. This Doctrine ſerves not many mens purpoſe, they muſt have other Doctrines, and to credit them, other Spirits too. Every one will have a Fami<g ref="char:EOLhyphen"/>liar Spirit of his own to teach him.</p>
+            <p>But are we to look for no other Inſtru<g ref="char:EOLhyphen"/>ction from the Spirit, but what is already taught in the Goſpel? that is to depoſe him of his Office from the time that the Goſpel was firſt revealed, and leave him no work to do after. God forbid, there are many other excellent Offices of the Spirit beſides Revelation; there is the Spirit of Sanctifica<g ref="char:EOLhyphen"/>tion, whereof we have continual need, to infuſe all divine Graces and Vertues into us, to aſſiſt and ſtrengthen us in all our infirmi<g ref="char:EOLhyphen"/>ties, to lead us out of temptations, troubles, and dangers, which every day ſurround us; yet not to reveal anew what we are to be<g ref="char:EOLhyphen"/>lieve
+<pb n="15" facs="tcp:95376:9"/>or do, which is already done in the Go<g ref="char:EOLhyphen"/>ſpel. And yet the Spirit will help us in that too; For when any difficulty or contention ariſe about them, we may and muſt pray for the Spirits aſſiſtance, to clear our under<g ref="char:EOLhyphen"/>ſtandings, by removing pride and prejudice that obſcure it; to inflame us with a true love of truth, not to dictate and reveal, or whiſper any thing which is not to be ſeen in the Goſpel, as well by the eyes of others as our own.</p>
+            <p>But doth not the <hi>Spirit bear witneſs to our ſpi<g ref="char:EOLhyphen"/>rits that we are the children of God?</hi> This can be no other but a private Spirit. That this Text ſtand not in our way (<hi>Rom.</hi> 8.16.) we muſt diſtinguiſh, not onely, as I have ſaid already, the Spirit by the ſeveral operations of reveal<g ref="char:EOLhyphen"/>ing and ſanctifying: So of the ſeveral kinds of bearing witneſs, which is either proper, by affirming or denying any thing expreſly, or improperly, by proof and argument from the Nature and Incidents of the matter in queſtion; as <hi>Acts</hi> 14.17. <hi>God left not himſelf without witneſs in that he did good, and gave us rain from heaven, and fruitful ſeaſons.</hi> Rain and fruitful ſeaſons affirm nothing of God, yet prove ſufficiently his Godhead, Power,
+<pb n="16" facs="tcp:95376:10"/>and Providence in governing the World.</p>
+            <p>Now the Spirit in both theſe ſenſes doth <hi>hear witneſs to our ſpirits, that we are the chil<g ref="char:EOLhyphen"/>dren of God,</hi> without the help of private Re<g ref="char:EOLhyphen"/>velations. For if we ſpeak of bearing wit<g ref="char:EOLhyphen"/>neſs properly, the publick Spirit in the Goſpel will effect that where it gives this teſtimony, That whoſoever believes, re<g ref="char:EOLhyphen"/>pents, and amends his life, is the Child of God, when our ſpirits can experimentally aſſume that we are ſo qualified, then the Spirit in the Goſpel <hi>beareth witneſs with our ſpirits that we are the children of God.</hi> And if we ſpeak of bearing witneſs in the o<g ref="char:EOLhyphen"/>ther ſenſe, of proving by argument and reaſon, then the Spirit of Sanctification working a real change in us, a deteſtation of Sin, and a true love and practice of Vertue and Godlineſs, beareth witneſs to our Spi<g ref="char:EOLhyphen"/>rits that we are the children of God. Here is therefore no place in this Text for private Revelations, and I wiſh they had none a<g ref="char:EOLhyphen"/>mongſt us; for under colour of them, every one will have a private Spirit, though of his own making. No Chymiſt can extract Na<g ref="char:EOLhyphen"/>tural Spirits out of any thing with more eaſe, then they can Divine; any vain Dream or
+<pb n="17" facs="tcp:95376:10"/>Imagination, nay any wicked deviliſh ſug<g ref="char:EOLhyphen"/>geſtion ſhall be an impulſe of Gods Spirit. It were happy for this Kingdom and Church if we could lay theſe Familiar Spirits; No <hi>Schiſm</hi> in the Church, no <hi>Miſchief</hi> in the Commonwealth; no <hi>Rebellious Practice</hi> which was not carried on by the conduct and impulſe of theſe Spirits. Thus by them they trouble the World, deceive ſimple men, and work deſpite to the Spirit of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> There is yet another title made to <hi>Life-everlaſting</hi> upon the ſame fallacie, by <hi>Faith</hi> divided from the <hi>Goſpel.</hi>
+            </p>
+            <p>
+               <hi>Faith</hi> hath been an unhappy word of con<g ref="char:EOLhyphen"/>tention; but I ſhall onely take notice here of the inſufficiency of the Plea of that Faith, which by thoſe that invented it, is called, <hi>Fides ſpecialis miſericordiae,</hi> that no man is ju<g ref="char:EOLhyphen"/>ſtified, and by conſequence, hath right to <hi>Life Everlaſting,</hi> but he that believes by a ſpe<g ref="char:EOLhyphen"/>cial mercy to him in particular, his ſins are forgiven; or which is all one, that he is ele<g ref="char:EOLhyphen"/>cted, for without that there is no remiſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>The Faith of the Goſpel they think is too general, without life, and common to the
+<pb n="18" facs="tcp:95376:11"/>Devils, who <hi>believe and tremble;</hi> they are <hi>Be<g ref="char:EOLhyphen"/>lievers</hi> and <hi>Quakers</hi> too, and yet are <hi>Devils.</hi> I cannot ſay how much of the Goſpel they believe, but by their trembling, and their own confeſſion to our Saviour, <hi>Art thou come to torment us before our time?</hi> that they belie<g ref="char:EOLhyphen"/>ved the Article of the laſt Judgment; that they ſhall be one day tormented for their ſins. By the way, the Devils may ſhame them that have not learned ſo far in their Creed.</p>
+            <p>But notwithſtanding this, we muſt not be ſo kind to the Devils, as to think they have the Faith of the Goſpel, becauſe that works by love; <hi>Circumciſion availeth not any thing, nor uncircumciſion, but faith that worketh by love, Gal.</hi> 5.6. I think no man hath ſo much charity for the Devils, as to think they have any. There is no reaſon therefore why the Faith of the Goſpel ſhould ſuffer for their ſakes. The word of Faith, ſaith St. <hi>Paul, Rom.</hi> 10.8. <hi>is that which we preach,</hi> and that was the Go<g ref="char:EOLhyphen"/>ſpel. Our particular election may be writ<g ref="char:EOLhyphen"/>ten in the Book of Life in Heaven, but it is no where to be found written in the Book of the Goſpel. True Faith is that which we preach, ſaith the Apoſtle, but this Faith of
+<pb n="19" facs="tcp:95376:11"/>Election no man can preach; for who can ſay and ſay truly of his own knowledge, that I, or you, or any man by name is elected. Now if this Faith cannot come by hearing, what will become of our Sermons? indeed, of any thing that can be called <hi>Religion</hi> or <hi>Sowing to the Spirit?</hi> for that leads us a way to Heaven through believing ſome myſte<g ref="char:EOLhyphen"/>ries we underſtand not, through many a heavy and hard law of mortification and denying our ſelves; whereas this Faith cuts off all that, and may well go for <hi>ſowing to the fleſh.</hi> For firſt, in favour to this, it ſhrinks up all the duties of the Goſpel into Faith; and then all Faith into one Article, and that not in the Creed neither: and ſomething they pare from that too, it works not as an act which we may call ours, for that will prejudice Gods free Grace, but as a relation to Chriſt; and in the Logick Schools it is diſputed, whether Relations have any real being or no. And thus all hangs upon a Pins point, and leaves not a Corn to be <hi>ſown to the Spirit.</hi> We may therefore conclude that this, and the other Pretenders are all deceived, miſtake the Field of the Spirit, which is the Goſpel, and ſowe quite be<g ref="char:EOLhyphen"/>ſide it.</p>
+            <p>
+               <pb n="20" facs="tcp:95376:12"/>It will be now time to enter into the Field it ſelf, and ſee what work the Spirit there ſets us to. It is a large Field, and rea<g ref="char:EOLhyphen"/>ches as far as the Goſpel; indeed too large to be paſſed through at one time. But this as a great Country may be ſeen in a little Chart.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. One of the works, and a chief deſign of the Spirit in the Goſpel, is a godly, righteous, and vertuous life.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. And a ſecond is like to it, A right Faith in the Myſtery of Chriſt and Salvation.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. A third is a devout and reverent wor<g ref="char:EOLhyphen"/>ſhip of God in Prayers, Praiſes, and Con<g ref="char:EOLhyphen"/>feſſions.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. A fourth is a careful uſe of the auxilia<g ref="char:EOLhyphen"/>ries of Grace, Sacraments, Faſtings, and other acts of Humiliation.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Fifthly, Then we have the adorning all theſe with comely and decent Ceremo<g ref="char:EOLhyphen"/>nies. This laſt though far from the Heart of Religion, is yet within the Body of it, as well as the reſt.</p>
+            <p>One thing more I have not yet named, which ſeems at a farther diſtance from the great duties of the Goſpel, and yet hath the advantage above the reſt, that it is here ex<g ref="char:EOLhyphen"/>preſly
+<pb n="21" facs="tcp:95376:12"/>called, <hi>ſowing to the Spirit;</hi> and what that is, we ſhall learn from the Verſe prece<g ref="char:EOLhyphen"/>dent; where</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. The Apoſtle exhorts <hi>him that is taught in the Word, to communicate to him that teacheth in all good things.</hi> If there be any coherence in the diſcourſe, any reaſon in the rational Particle <hi>[for] For he that ſoweth unto the Spirit.</hi> The communicating our Goods for the Goſpel, is <hi>true ſowing to the Spirit.</hi>
+            </p>
+            <p>This duty therefore together with thoſe already named, are all Sowing to the Spirit, and have a joint tendency to life everlaſting. For the meaning is not that any of them apart make a full Title to it, but according to their quality and degree carry us their part in the way towards it.</p>
+            <p>It is therefore but a piece of fraud and Sophiſtry to diſcountenance one duty, by ſetting up a greater againſt it, as the man<g ref="char:EOLhyphen"/>ner is, that the main purpoſe of the Goſpel looks another way. And ſo run down one duty with another, the leſs with the greater, as Great Perſons do their Inferiors. This is not onely a Deceit, but plain mocking of God, who commands both, and a ſetting him againſt himſelf.</p>
+            <p>
+               <pb n="22" facs="tcp:95376:13"/>I note this Fallacy in common, that it be not made uſe of here on our particular, to miſlead us from the due regard ought to be given to the maintenance of thoſe that mi<g ref="char:EOLhyphen"/>niſter in the Goſpel; though it be not the accompliſhment of the great dutie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath a remote inſtuence upon all. S<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in as low a place in Gods Houſe as you pleaſe, but for the Spirits ſake, let it not be turned out of dores.</p>
+            <p>I ſingle out this duty from the reſt, that may deſerve our care more, and need it leſs. It hath fewer friends to ſpeak for it I con<g ref="char:EOLhyphen"/>feſs, but the true reaſon why I do it, is be<g ref="char:EOLhyphen"/>cauſe it was the particular occaſion of the Apoſtles delivering this doctrine; and in this I ſhall keep both a better meaſure with the Time, and with the Apoſtles intention, and it is a point too, wherein we are as much <hi>deceived</hi> as in any.</p>
+            <p>Our worldly Goods by nature and kind are Carnal, yet being <hi>ſown to the Spirit,</hi> be<g ref="char:EOLhyphen"/>come ſpiritual, they are infranchiſed and in<g ref="char:EOLhyphen"/>corporate into the Family and Retinue of the Spirit, they alter their property, not by imprinting any real indelible character into them, as envy and ill-will objects, but gi<g ref="char:EOLhyphen"/>ving
+<pb n="23" facs="tcp:95376:13"/>onely the reſpect that perſons of low birth have, when they are adopted or affian<g ref="char:EOLhyphen"/>ced into a more noble Stock. When the <hi>Fleſh</hi> ſerves the <hi>Spirit</hi> it is advanced above her condition, the Volatile nature of the <hi>Fleſh</hi> is fixed by the <hi>Spirit,</hi> and helps to make up the title to everlaſting life.</p>
+            <p>This is warrant enough for me to make a Suit, and reward enough for thoſe that grant it: That for Gods ſake and the Spi<g ref="char:EOLhyphen"/>rits, when the Church Revenue comes into your thoughts to caſt an eye, if not of duty, of compaſſion upon ſuch miſerable places, where there is but too much neceſſity for it. I can ſpeak of my own knowledge, that there are many hundreds of Pariſhes in this Kingdom, where there is not ſo much year<g ref="char:EOLhyphen"/>ly maintenance for ſerving the Cure, as one of your Foot-men ſtand you in.</p>
+            <p>If ſo great a ſcandal to Religion, and real obſtruction to it, be in theſe indigent Times too heavy a burthen to be removed, and therefore unſeaſonable alſo to be moved. Though this be no time of <hi>ſowing to the Spirit,</hi> it can be no ſeaſon to pull up that which hath been already ſown by the devotion of others.</p>
+            <p>
+               <pb n="24" facs="tcp:95376:14"/>'Tis ſtrange that the Church mainte<g ref="char:EOLhyphen"/>nance ſhould be thought to hang ſo looſe, more then other mens Eſtates, as that any man, when the ſullen humour takes him, can think to blow them away with a Mo<g ref="char:EOLhyphen"/>tion, <hi>Let the Church Lands be ſold.</hi>
+            </p>
+            <p>If they were held onely upon <hi>Frank al<g ref="char:EOLhyphen"/>moign,</hi> it is as firm a Tenure as any is in Law. But it is more ſtrange, that they ſhould think to mock and elude God, who once declared it to be a robbing of him alſo. When he charged the Jews for detaining Tithes and Offerings from the Prieſts of that Altar. What reaſon can be given that the Miniſters of a better Covenant ſhould have a worſe title? There are not many Eſtates in the World beſides which God himſelf owns; this bears the Image and Superſcription of the Spirit. It muſt be a deſperate boldneſs to break into his peculiar, to ſtir any thing that is ſown in his Field.</p>
+            <p>And that it may not ſeem ſtrange that Carnal things ſhould be thus advanced to ſpirituals; for by a like converſion Spiri<g ref="char:EOLhyphen"/>tual things degenerate into Carnal. This likewiſe will be worth our obſervation.</p>
+            <p>
+               <hi>Religion</hi> is out of doubt a Spiritual thing,
+<pb n="25" facs="tcp:95376:14"/>yet if that ſpread and run into Schiſms, it grows Carnal. For while one ſaith, <hi>I am of Paul, and another I am of Apollos, are ye not carnal,</hi> 1 <hi>Cor.</hi> 3.4. So <hi>Rom.</hi> 16.17. <hi>They who cauſe diviſions among you ſerve not the Lord Jeſus Chriſt, but their own Bellies;</hi> if any thing be fleſh ſure the Belly is.</p>
+            <p>If there be ſo much malignance and ſowreneſs in Schiſms and Diviſions to turn Religion into Fleſh, what ſhall we think of a Religion, in Deſign, that is made up all of Sects and Diviſions? that muſt be all Fleſh. I ſay no more, it is in private Deſign onely; as when St. <hi>Paul</hi> charged the <hi>Corinths</hi> with ſtrife, and ſchiſm, it was but upon report onely. <hi>It is reported</hi> (ſaith he) <hi>by them of the houſe of Cloe, that there are contentions among you.</hi> So I ſay, <hi>onely,</hi> it is reported from a houſe of <hi>Cloe,</hi> how theſe Schiſms ſhall be diſpoſed of. A Church ſhall be contrived that will give room and Liberty to them all.</p>
+            <p>But if the Church muſt be new modelled for their ſakes, they muſt new model the Rules of Wiſdom and Government too; For by that it was ever thought neceſſary that the People ſhould conform to the Laws of the Church; never that a Church ſhould
+<pb n="26" facs="tcp:95376:15"/>conform to the humours of the People.</p>
+            <p>This is ſo irregular a thing, that it will not be labour loſt to take a little farther no<g ref="char:EOLhyphen"/>tice of it. And firſt that you may know it by name, it is to be called, <hi>a Comprehenſive Church;</hi> a name, I muſt confeſs, not unfit for the purpoſe, though I think it might have been better called a Drag-net, that will fetch in all kind of Fiſh, good or bad, great or ſmall, there will be room enough for <hi>Le<g ref="char:EOLhyphen"/>viathan to take his paſtime therein.</hi> But how ſhall the Church be drawn out to ſuch a bredth and latitude?</p>
+            <p>That will be no hard matter to do. It is but pulling down the Old Walls, the Con<g ref="char:EOLhyphen"/>feſſion of Doctrine, and Canons of Diſci<g ref="char:EOLhyphen"/>pline. Lay all common, and then no doubt there will be room enough for all.</p>
+            <p>But will theſe prove ſo good company when they are in, for whoſe ſake this ſhould be done? Will they not rather give us cauſe to fear what the poor <hi>Trojans</hi> found, when they broke down the old Walls of their City to let in a Horſe with a <hi>Comprehenſive Belly,</hi> that carried armed enemies enough to ruine them and their City.</p>
+            <p>And leaſt we ſhould think this done for
+<pb n="27" facs="tcp:95376:15"/>love of their company, they let us know they have no meaner inducement to it, then that which governs all the World, Gain and Pro<g ref="char:EOLhyphen"/>fit, advancement of Trade, and increaſe of Money. This is plain dealing, they profeſs to ſowe the Spirit to the Fleſh. They will make a Church that ſhall make us rich. But can there be any blame or harm in this? Can we not be Religious and rich too? I will not diſpute that, if we bring riches up to Religion. But I will diſpute it, and de<g ref="char:EOLhyphen"/>ny it too, if we bring Religion down to Riches. Godlineſs may be Gain, but Gain will never be Godlineſs. Riches may be a good Nurſe to cheriſh it, but an ill Mother to bring it forth, for <hi>whatſoever is born of the fleſh is fleſh.</hi>
+            </p>
+            <p>It is the greateſt diſhonour that can be to the Spirit to make it ſerve for Compoſt, onely to lay in the Field of the Fleſh.</p>
+            <p>But theſe, you ſay, though carnal things, may be ſecondary ends, which do not make void the ſpiritual. <hi>Peace</hi> and <hi>Charity</hi> are the two Pillars whereon this Church is to be built, and they will ſerve to keep up the Spirit in it.</p>
+            <p>We cannot deny but that they are true
+<pb n="28" facs="tcp:95376:16"/>ſpiritual things, but if both theſe Pillars ſhould fail, there would nothing be left in the Church but Fleſh.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For Peace and Union, that which feeds the hope of that, is taking down the Walls that divide them; that is, removing the Confeſſions and Canons, and all will natu<g ref="char:EOLhyphen"/>rally fall in together.</p>
+            <p>For anſwer to this, we muſt diſtinguiſh the quality of the perſons for whom this room is to be made. And they are either ſuch as will be content to leave their faults and errours behind them; and to thoſe we ſhall do well to ſet our gates wide open, and need not pull down our Walls. Or they are ſuch as bring their errours, animo<g ref="char:EOLhyphen"/>ſities, and divided judgments along with them. And to pacifie theſe, the taking a<g ref="char:EOLhyphen"/>way the Walls will do no good, for they bring their Diviſions with them into the Bowels of the Church, where the flame will be more fierce and dangerous, then when it burnt onely without. All the be<g ref="char:EOLhyphen"/>nefit can be hoped for by taking away the Confeſſions and Canons, is but to ſecure them from puniſhment, but leaves them free to all other cauſes of diſſention, or ra<g ref="char:EOLhyphen"/>ther
+<pb n="29" facs="tcp:95376:16"/>fortifies and animates them to purſue their differences with more violence. Impu<g ref="char:EOLhyphen"/>nity and Authority will not cool their zeal of advancing the Intereſt of their Sect; for it is not <hi>Toleration</hi> but <hi>Maſtery</hi> they aim at. In the mean time our <hi>Sowing</hi> will be turned into <hi>Fighting,</hi> our <hi>Plough-ſhares</hi> into <hi>Swords;</hi> the <hi>field of the Spirit</hi> into a <hi>field of War,</hi> and thus we ſhall live in a perpetual ſtorm. This is all the hope we have of Peace by it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And for <hi>Charity,</hi> we ſhall find it hath as little to do here. It will be neither want of Charity to leave them out, nor a work of Charity to take them in.</p>
+            <p n="1">1. It will be no want of Charity to leave them out, if by that we condemn them not. And condemn them we do not, if we keep St. <hi>Pauls</hi> rule. Schiſmaticks are without the Church, we judge not them; <hi>Thoſe that are without the Church, God judgeth,</hi> 1 <hi>Cor.</hi> 5.13. They muſt ſtand or fall to God. And when we do refuſe them, we do not con<g ref="char:EOLhyphen"/>demn them to Hell. All we ſay is, if they will not go to Heaven our way, they ſhall not go in our company; and in truth they cannot.</p>
+            <p n="2">
+               <pb n="30" facs="tcp:95376:17"/>2. It is no work of Charity to take them in with all their faults. For though Cha<g ref="char:EOLhyphen"/>rity be a good natured Vertue, and covers a multitude of ſins, but when they are not known abroad, but cheriſheth none that are. I could never think it a breach of Charity to condemn Hereſie or Schiſm, which are known ſins, though it be againſt Charity to condemn any perſon of either, of whoſe guilt there may be doubt. Charity may ſometimes abſolve the Offender, but never the Offence. When the Offence is known to us, and the Fact avowed by them, they cannot be taken in for Charity ſake, if we love our own quiet, and Charity begins at home.</p>
+            <p>Now if neither Peace nor Charity have any ſhare in framing this <hi>New Church,</hi> I may for a Concluſion ask the queſtion our Saviour did the Jews concerning <hi>John</hi>'s Baptiſm, <hi>Is it from Heaven, or of men?</hi> or which is all one, is it from the <hi>Fleſh</hi> or from the <hi>Spirit?</hi> If they ſhall ſay from the <hi>Fleſh,</hi> all men will adjudge it to Cor<g ref="char:EOLhyphen"/>ruption; If they ſhall ſay from Hea<g ref="char:EOLhyphen"/>ven, or from the Spirit, I will ask them another queſtion, Whether a Church with<g ref="char:EOLhyphen"/>out
+<pb n="31" facs="tcp:95376:17"/>out Walls can be of Gods making? <hi>His Church is a garden encloſed, Cant.</hi> 4.12. And when he planted a Vineyard, <hi>Eſay</hi> 5.2. and that was his Church, <hi>he fenced it in.</hi> But when he ſaw it brought forth wild Grapes, then he threatens them with this Judgment, <hi>I will take away the hedge thereof, and it ſhall be eaten up; and break down the Wall thereof, and it ſhall be trodden down.</hi> Can it be wiſdom to draw that upon our ſelves, which God would not inflict but in vengeance? To make the Field of the Spirit no better then the Field of the Sluggard? <hi>Prov.</hi> 24.31. <hi>I went by it, and lo it was all grown over with thorns, and nettles had covered the face there<g ref="char:EOLhyphen"/>of, and the ſtone wall thereof was broken down.</hi> Nothing can be liker then Schiſms to Thorns, and Liberty from Laws to a broken Wall.</p>
+            <p>If I had kept my ſelf to the proper work of the Preacher this day, which is <hi>Palm Sunday,</hi> I ſhould have carried a <hi>Palm</hi> to the triumph of our Saviour entring into <hi>Jeruſalem.</hi> But finding ſome ſo buſie in ſtrewing our way with THORNS, in ſtead of PALMS, I thought it fitter firſt to clear the way of them, to prepare it
+<pb n="32" facs="tcp:95376:18"/>this day for a greater Triumph at <hi>Eaſter,</hi> over <hi>Sin, Death,</hi> and <hi>Hell.</hi>
+            </p>
+            <p>I have no more to ſay, but to end as I began, <hi>Be not deceived, God is not mocked.</hi> That which is deareſt to us, our own Cre<g ref="char:EOLhyphen"/>dit, that we be not men <hi>deceived;</hi> and that which ought to be Gods honour, that he be not <hi>mocked,</hi> are both engaged in the Truth of this Doctrine, that we do not raſhly ad<g ref="char:EOLhyphen"/>venture to <hi>ſowe</hi> what we would be loath to <hi>reap;</hi> and unwiſely prefer that which will certainly and ſuddenly fade away, before that which will laſt for ever. <hi>He that ſow<g ref="char:EOLhyphen"/>eth to the fleſh, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95376:18"/>
+            <head>A Catalogue of ſome Books, printed for, and ſold by <hi>H. Brome,</hi> ſince the dreadful Fire of <hi>London,</hi> to 1675.</head>
+            <list>
+               <item>
+                  <hi>A</hi> Guide to Eternity, by <hi>John Bona, octavo, 2</hi> s.</item>
+               <item>Dean <hi>W. Lloyd</hi>'s Sermon before the King about Miracles. <hi>6</hi> d.</item>
+               <item>— His Sermon at the Funeral of <hi>John</hi> Lord Biſhop of <hi>Cheſter. 6</hi> d.</item>
+               <item>— His Sermon before the King in Lent, <hi>1673. 6</hi> d.</item>
+               <item>The Seaſonable Diſcourſe againſt Popery, in <hi>quarto. 6</hi> d.</item>
+               <item>— The Defence of it, <hi>quarto. 6</hi> d.</item>
+               <item>— The Difference betwixt the Church and Court of <hi>Rome,</hi> in <hi>quarto. 6</hi> d.</item>
+               <item>The Papiſts Apology to the Parliament anſwered. <hi>6</hi> d.</item>
+               <item>Mr. <hi>Naylor</hi>'s Commemoration Sermon for Col. <hi>Ca<g ref="char:EOLhyphen"/>vendiſh. 6</hi> d.</item>
+               <item>Mr. <hi>Sayers</hi> Sermon at the Aſſizes at <hi>Reading. 6</hi> d.</item>
+               <item>Mr. <hi>Tho. Tannet</hi>'s Sermon to the ſcattered Members of the Church. <hi>6</hi> d.</item>
+               <item>Mr. <hi>Stanhopp</hi>'s four Sermons on ſeveral occaſions, <hi>octa<g ref="char:EOLhyphen"/>vo</hi> bound, <hi>1</hi> s. <hi>6</hi> d.</item>
+               <item>
+                  <hi>Papal Tyranny,</hi> as it was exerciſed over <hi>England</hi> for ſome Ages, with two Sermons on the fifth of <hi>Nov.</hi> by Dr. <hi>Du Moulin,</hi> in <hi>quarto, 1</hi> s. <hi>6</hi> d.</item>
+               <item>— His Sermon at the Funeral of Dr. <hi>Turner</hi> Dean of <hi>Canterbury. 6</hi> d.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
